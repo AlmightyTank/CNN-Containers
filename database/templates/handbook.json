@@ -1,0 +1,34 @@
+{
+    "Items": [
+        {
+            "Id": "item_container_gearbox",
+            "ParentId": "5b5f6fa186f77409407a7eb7",
+            "Price": 1308123
+        },
+        {
+            "Id": "item_container_modbox",
+            "ParentId": "5b5f6fa186f77409407a7eb7",
+            "Price": 51284
+        },
+        {
+            "Id": "recycled_ammo_bag",
+            "ParentId": "5b5f6fa186f77409407a7eb7",
+            "Price": 43266
+        },
+        {
+            "Id": "recycled_fak",
+            "ParentId": "5b5f6fa186f77409407a7eb7",
+            "Price": 61509
+        },
+        {
+            "Id": "small_portable_fridge",
+            "ParentId": "5b5f6fa186f77409407a7eb7",
+            "Price": 17684
+        },
+        {
+            "Id": "small_toolbox",
+            "ParentId": "5b5f6fa186f77409407a7eb7",
+            "Price": 14045
+        }
+    ]
+}

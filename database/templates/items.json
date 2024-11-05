@@ -1,0 +1,571 @@
+{
+  "item_container_gearbox": {
+    "_id": "item_container_gearbox",
+    "_name": "item_container_gearbox",
+    "_parent": "5795f317245977243854e041",
+    "_type": "Item",
+    "_props": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "grey",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": true,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "Description": "A gear storage box.",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [
+        {
+          "_id": "5c127c4486f7745625356c15",
+          "_name": "main",
+          "_parent": "item_container_gearbox",
+          "_props": {
+            "cellsH": 12,
+            "cellsV": 8,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "57bef4c42459772e8d35a53b",
+                  "5448e54d4bdc2dcc718b4568",
+                  "5448e5284bdc2dcb718b4567",
+                  "5448e53e4bdc2d60728b4567",
+                  "5645bcb74bdc2ded0b8b4578",
+                  "5448e5724bdc2ddf718b4568",
+                  "5a341c4086f77401f2541505",
+                  "5a341c4686f77469e155819e",
+                  "5b3f15d486f77432d0509248"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Height": 3,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_metal",
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Gear Box",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/item_container_gearbox.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "G-BOX",
+      "Slots": [],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TagColor": 0,
+      "TagName": "",
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 11.4,
+      "Width": 5
+    },
+    "_proto": "577e1c9d2459773cd707c525"
+  },
+
+  "item_container_modbox": {
+    "_id": "item_container_modbox",
+    "_name": "item_container_modbox",
+    "_parent": "5795f317245977243854e041",
+    "_type": "Item",
+    "_props": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "grey",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "Description": "A weapon mod storage case.",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [
+        {
+          "_id": "5c127c4486f7745625356c15",
+          "_name": "main",
+          "_parent": "item_container_modbox",
+          "_props": {
+            "cellsH": 7,
+            "cellsV": 7,
+            "filters": [
+              {
+                "ExcludedFilter": [
+                ],
+                "Filter": [
+                  "5448fe124bdc2da5018b4567"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Height": 2,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_metal",
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Mod Case",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/item_container_modbox.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "M-CASE",
+      "Slots": [],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TagColor": 0,
+      "TagName": "",
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 2.7,
+      "Width": 3
+    },
+    "_proto": "577e1c9d2459773cd707c525"
+  },
+
+  "recycled_ammo_bag": {
+    "_id": "recycled_ammo_bag",
+    "_name": "recycled_ammo_bag",
+    "_parent": "5795f317245977243854e041",
+    "_type": "Item",
+    "_props": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "grey",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "Description": "A recycled IFAK to hold ammunition.",
+      "DiscardLimit": 1,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [
+        {
+          "_id": "5c127c4486f7745625356c15",
+          "_name": "main",
+          "_parent": "recycled_ammo_bag",
+          "_props": {
+            "cellsH": 2,
+            "cellsV": 2,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5485a8684bdc2da71d8b4567",
+                  "543be5cb4bdc2deb348b4568"
+
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_metal",
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Recycled Ammo Bag",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/recycled_ammo_bag.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "A-BAG",
+      "Slots": [],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TagColor": 0,
+      "TagName": "",
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.4,
+      "Width": 1
+    },
+    "_proto": "577e1c9d2459773cd707c525"
+  },
+
+  "recycled_fak": {
+    "_id": "recycled_fak",
+    "_name": "recycled_fak",
+    "_parent": "5795f317245977243854e041",
+    "_type": "Item",
+    "_props": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "orange",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "Description": "A used and dirty first aid kit. It can be reused in a similar way.",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [
+        {
+          "_id": "5c127c4486f7745625356c15",
+          "_name": "main",
+          "_parent": "recycled_fak",
+          "_props": {
+            "cellsH": 3,
+            "cellsV": 3,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "543be5664bdc2dd4348b4569",
+                  "57864c8c245977548867e7f1"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_metal",
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Recycled First Aid Kit",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/recycled_fak.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "R-FAK",
+      "Slots": [],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TagColor": 0,
+      "TagName": "",
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.4,
+      "Width": 2
+    },
+    "_proto": "577e1c9d2459773cd707c525"
+  },
+
+  "small_portable_fridge": {
+    "_id": "small_portable_fridge",
+    "_name": "small_portable_fridge",
+    "_parent": "5795f317245977243854e041",
+    "_type": "Item",
+    "_props": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "black",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "Description": "A small portable fridge.",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [
+        {
+          "_id": "5c127c4486f7745625356c15",
+          "_name": "main",
+          "_parent": "small_portable_fridge",
+          "_props": {
+            "cellsH": 4,
+            "cellsV": 4,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "543be6674bdc2df1348b4569"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_metal",
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Small Portable Fride",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/small_portable_fridge.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "SP-F",
+      "Slots": [],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TagColor": 0,
+      "TagName": "",
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 2.36,
+      "Width": 1
+    },
+    "_proto": "577e1c9d2459773cd707c525"
+  },
+
+  "small_toolbox": {
+    "_id": "small_toolbox",
+    "_name": "small_toolbox",
+    "_parent": "5795f317245977243854e041",
+    "_type": "Item",
+    "_props": {
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "blue",
+      "CanPutIntoDuringTheRaid": true,
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ConflictingItems": [],
+      "Description": "A small toolbox, probably stolen from a Scav.",
+      "DiscardLimit": 0,
+      "DiscardingBlock": false,
+      "DropSoundType": "None",
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Grids": [
+        {
+          "_id": "5c127c4486f7745625356c15",
+          "_name": "main",
+          "_parent": "small_toolbox",
+          "_props": {
+            "cellsH": 6,
+            "cellsV": 4,
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "5448eb774bdc2d0a728b4567"
+                ]
+              }
+            ],
+            "isSortingTable": false,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "minCount": 0
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Height": 2,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_metal",
+      "LootExperience": 30,
+      "MergesWithChildren": false,
+      "Name": "Small Toolbox",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/containers/small_toolbox.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "S-TB",
+      "Slots": [],
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "TagColor": 0,
+      "TagName": "",
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 3.6,
+      "Width": 3
+    },
+    "_proto": "577e1c9d2459773cd707c525"
+  }
+}

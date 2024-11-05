@@ -1,0 +1,29 @@
+{
+	"assorts": {
+		"items": [
+			{
+				"_id": "small_toolbox",
+				"_tpl": "small_toolbox",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999
+				}
+			}
+	],
+		"barter_scheme": {
+			"small_toolbox": [
+				[
+					{
+						"count": 118,
+						"_tpl": "569668774bdc2da2298b4568"
+					}
+				]
+			]
+		},		
+		"loyal_level_items": {
+			"small_toolbox": 1
+		}
+	}
+}

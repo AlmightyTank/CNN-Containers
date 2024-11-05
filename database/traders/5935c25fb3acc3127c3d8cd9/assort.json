@@ -1,0 +1,29 @@
+{
+	"assorts": {
+		"items": [
+			{
+				"_id": "item_container_modbox",
+				"_tpl": "item_container_modbox",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999
+				}
+			}
+	],
+		"barter_scheme": {
+			"item_container_modbox": [
+				[
+					{
+						"count": 434,
+						"_tpl": "5696686a4bdc2da3298b456a"
+					}
+				]
+			]
+		},		
+		"loyal_level_items": {
+			"item_container_modbox": 1
+		}
+	}
+}

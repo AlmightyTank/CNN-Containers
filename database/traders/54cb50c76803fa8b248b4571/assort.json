@@ -1,0 +1,29 @@
+{
+	"assorts": {
+		"items": [
+			{
+				"_id": "recycled_ammo_bag",
+				"_tpl": "recycled_ammo_bag",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999
+				}
+			}
+	],
+		"barter_scheme": {
+			"recycled_ammo_bag": [
+				[
+					{
+						"count": 36980,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+		},		
+		"loyal_level_items": {
+			"recycled_ammo_bag": 1
+		}
+	}
+}

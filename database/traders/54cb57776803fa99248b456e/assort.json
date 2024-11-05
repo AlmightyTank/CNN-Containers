@@ -1,0 +1,29 @@
+{
+	"assorts": {
+		"items": [
+			{
+				"_id": "recycled_fak",
+				"_tpl": "recycled_fak",
+				"parentId": "hideout",
+				"slotId": "hideout",
+				"upd": {
+					"UnlimitedCount": true,
+					"StackObjectsCount": 999
+				}
+			}
+	],
+		"barter_scheme": {
+			"recycled_fak": [
+				[
+					{
+						"count": 52572,
+						"_tpl": "5449016a4bdc2d6f028b456f"
+					}
+				]
+			]
+		},		
+		"loyal_level_items": {
+			"recycled_fak": 1
+		}
+	}
+}
