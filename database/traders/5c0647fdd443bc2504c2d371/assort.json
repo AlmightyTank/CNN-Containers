@@ -2,8 +2,8 @@
 	"assorts": {
 		"items": [
 			{
-				"_id": "small_portable_fridge",
-				"_tpl": "small_portable_fridge",
+				"_id": "683d09c63c277dad20e4260b",
+				"_tpl": "683d09c63c277dad20e4260b",
 				"parentId": "hideout",
 				"slotId": "hideout",
 				"upd": {
@@ -13,7 +13,7 @@
 			}
 	],
 		"barter_scheme": {
-			"small_portable_fridge": [
+			"683d09c63c277dad20e4260b": [
 				[
 					{
 						"count": 20690,
@@ -23,7 +23,7 @@
 			]
 		},		
 		"loyal_level_items": {
-			"small_portable_fridge": 1
+			"683d09c63c277dad20e4260b": 1
 		}
 	}
 }

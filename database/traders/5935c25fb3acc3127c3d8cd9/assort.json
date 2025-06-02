@@ -2,8 +2,8 @@
 	"assorts": {
 		"items": [
 			{
-				"_id": "item_container_modbox",
-				"_tpl": "item_container_modbox",
+				"_id": "683d09aadb9e219d2f7bd6e8",
+				"_tpl": "683d09aadb9e219d2f7bd6e8",
 				"parentId": "hideout",
 				"slotId": "hideout",
 				"upd": {
@@ -13,7 +13,7 @@
 			}
 	],
 		"barter_scheme": {
-			"item_container_modbox": [
+			"683d09aadb9e219d2f7bd6e8": [
 				[
 					{
 						"count": 434,
@@ -23,7 +23,7 @@
 			]
 		},		
 		"loyal_level_items": {
-			"item_container_modbox": 1
+			"683d09aadb9e219d2f7bd6e8": 1
 		}
 	}
 }

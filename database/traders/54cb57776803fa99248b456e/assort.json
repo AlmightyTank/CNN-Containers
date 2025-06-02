@@ -2,8 +2,8 @@
 	"assorts": {
 		"items": [
 			{
-				"_id": "recycled_fak",
-				"_tpl": "recycled_fak",
+				"_id": "683d09bda7c49f4eead357ec",
+				"_tpl": "683d09bda7c49f4eead357ec",
 				"parentId": "hideout",
 				"slotId": "hideout",
 				"upd": {
@@ -13,7 +13,7 @@
 			}
 	],
 		"barter_scheme": {
-			"recycled_fak": [
+			"683d09bda7c49f4eead357ec": [
 				[
 					{
 						"count": 52572,
@@ -23,7 +23,7 @@
 			]
 		},		
 		"loyal_level_items": {
-			"recycled_fak": 1
+			"683d09bda7c49f4eead357ec": 1
 		}
 	}
 }

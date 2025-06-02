@@ -2,8 +2,8 @@
 	"assorts": {
 		"items": [
 			{
-				"_id": "recycled_ammo_bag",
-				"_tpl": "recycled_ammo_bag",
+				"_id": "683d09b347163b4e7eaecfb1",
+				"_tpl": "683d09b347163b4e7eaecfb1",
 				"parentId": "hideout",
 				"slotId": "hideout",
 				"upd": {
@@ -13,7 +13,7 @@
 			}
 	],
 		"barter_scheme": {
-			"recycled_ammo_bag": [
+			"683d09b347163b4e7eaecfb1": [
 				[
 					{
 						"count": 36980,
@@ -23,7 +23,7 @@
 			]
 		},		
 		"loyal_level_items": {
-			"recycled_ammo_bag": 1
+			"683d09b347163b4e7eaecfb1": 1
 		}
 	}
 }

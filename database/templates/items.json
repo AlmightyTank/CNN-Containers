@@ -1,7 +1,7 @@
 {
-  "item_container_gearbox": {
-    "_id": "item_container_gearbox",
-    "_name": "item_container_gearbox",
+  "683d0995deed9b8d4f897ec2": {
+    "_id": "683d0995deed9b8d4f897ec2",
+    "_name": "683d0995deed9b8d4f897ec2",
     "_parent": "5795f317245977243854e041",
     "_type": "Item",
     "_props": {
@@ -28,7 +28,7 @@
         {
           "_id": "5c127c4486f7745625356c15",
           "_name": "main",
-          "_parent": "item_container_gearbox",
+          "_parent": "683d0995deed9b8d4f897ec2",
           "_props": {
             "cellsH": 12,
             "cellsV": 8,
@@ -100,9 +100,9 @@
     "_proto": "577e1c9d2459773cd707c525"
   },
 
-  "item_container_modbox": {
-    "_id": "item_container_modbox",
-    "_name": "item_container_modbox",
+  "683d09aadb9e219d2f7bd6e8": {
+    "_id": "683d09aadb9e219d2f7bd6e8",
+    "_name": "683d09aadb9e219d2f7bd6e8",
     "_parent": "5795f317245977243854e041",
     "_type": "Item",
     "_props": {
@@ -129,7 +129,7 @@
         {
           "_id": "5c127c4486f7745625356c15",
           "_name": "main",
-          "_parent": "item_container_modbox",
+          "_parent": "683d09aadb9e219d2f7bd6e8",
           "_props": {
             "cellsH": 7,
             "cellsV": 7,
@@ -194,9 +194,9 @@
     "_proto": "577e1c9d2459773cd707c525"
   },
 
-  "recycled_ammo_bag": {
-    "_id": "recycled_ammo_bag",
-    "_name": "recycled_ammo_bag",
+  "683d09b347163b4e7eaecfb1": {
+    "_id": "683d09b347163b4e7eaecfb1",
+    "_name": "683d09b347163b4e7eaecfb1",
     "_parent": "5795f317245977243854e041",
     "_type": "Item",
     "_props": {
@@ -223,7 +223,7 @@
         {
           "_id": "5c127c4486f7745625356c15",
           "_name": "main",
-          "_parent": "recycled_ammo_bag",
+          "_parent": "683d09b347163b4e7eaecfb1",
           "_props": {
             "cellsH": 2,
             "cellsV": 2,
@@ -289,9 +289,9 @@
     "_proto": "577e1c9d2459773cd707c525"
   },
 
-  "recycled_fak": {
-    "_id": "recycled_fak",
-    "_name": "recycled_fak",
+  "683d09bda7c49f4eead357ec": {
+    "_id": "683d09bda7c49f4eead357ec",
+    "_name": "683d09bda7c49f4eead357ec",
     "_parent": "5795f317245977243854e041",
     "_type": "Item",
     "_props": {
@@ -318,7 +318,7 @@
         {
           "_id": "5c127c4486f7745625356c15",
           "_name": "main",
-          "_parent": "recycled_fak",
+          "_parent": "683d09bda7c49f4eead357ec",
           "_props": {
             "cellsH": 3,
             "cellsV": 3,
@@ -383,9 +383,9 @@
     "_proto": "577e1c9d2459773cd707c525"
   },
 
-  "small_portable_fridge": {
-    "_id": "small_portable_fridge",
-    "_name": "small_portable_fridge",
+  "683d09c63c277dad20e4260b": {
+    "_id": "683d09c63c277dad20e4260b",
+    "_name": "683d09c63c277dad20e4260b",
     "_parent": "5795f317245977243854e041",
     "_type": "Item",
     "_props": {
@@ -412,7 +412,7 @@
         {
           "_id": "5c127c4486f7745625356c15",
           "_name": "main",
-          "_parent": "small_portable_fridge",
+          "_parent": "683d09c63c277dad20e4260b",
           "_props": {
             "cellsH": 4,
             "cellsV": 4,
@@ -476,9 +476,9 @@
     "_proto": "577e1c9d2459773cd707c525"
   },
 
-  "small_toolbox": {
-    "_id": "small_toolbox",
-    "_name": "small_toolbox",
+  "683d09cd0c8ec927b398b7b7": {
+    "_id": "683d09cd0c8ec927b398b7b7",
+    "_name": "683d09cd0c8ec927b398b7b7",
     "_parent": "5795f317245977243854e041",
     "_type": "Item",
     "_props": {
@@ -505,7 +505,7 @@
         {
           "_id": "5c127c4486f7745625356c15",
           "_name": "main",
-          "_parent": "small_toolbox",
+          "_parent": "683d09cd0c8ec927b398b7b7",
           "_props": {
             "cellsH": 6,
             "cellsV": 4,

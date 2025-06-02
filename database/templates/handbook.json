@@ -1,32 +1,32 @@
 {
     "Items": [
         {
-            "Id": "item_container_gearbox",
+            "Id": "683d0995deed9b8d4f897ec2",
             "ParentId": "5b5f6fa186f77409407a7eb7",
             "Price": 1308123
         },
         {
-            "Id": "item_container_modbox",
+            "Id": "683d09aadb9e219d2f7bd6e8",
             "ParentId": "5b5f6fa186f77409407a7eb7",
             "Price": 51284
         },
         {
-            "Id": "recycled_ammo_bag",
+            "Id": "683d09b347163b4e7eaecfb1",
             "ParentId": "5b5f6fa186f77409407a7eb7",
             "Price": 43266
         },
         {
-            "Id": "recycled_fak",
+            "Id": "683d09bda7c49f4eead357ec",
             "ParentId": "5b5f6fa186f77409407a7eb7",
             "Price": 61509
         },
         {
-            "Id": "small_portable_fridge",
+            "Id": "683d09c63c277dad20e4260b",
             "ParentId": "5b5f6fa186f77409407a7eb7",
             "Price": 17684
         },
         {
-            "Id": "small_toolbox",
+            "Id": "683d09cd0c8ec927b398b7b7",
             "ParentId": "5b5f6fa186f77409407a7eb7",
             "Price": 14045
         }

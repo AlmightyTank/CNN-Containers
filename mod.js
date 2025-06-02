@@ -15,7 +15,7 @@ class Mod {
         const handbook = db.templates.handbook.Items;
 
         // Load database data from the mod's database folder asynchronously
-        mydb = await importerUtil.loadRecursiveAsync(`${modLoader.getModPath("CNN-Containers")}database/`);
+        mydb = await importerUtil.loadAsync(`${modLoader.getModPath("CNN-Containers")}database/`);
 
         // Load items into the game's item templates
         for (const item in mydb.templates.items) {
@@ -30,6 +30,25 @@ class Mod {
         // Load item presets from mod database
         for (const preset in mydb.globals.ItemPresets) {
             db.globals.ItemPresets[preset] = mydb.globals.ItemPresets[preset];
+        }
+
+        // Add new items to secure container filters
+        const secureContainerIDs = Object.keys(items).filter(id => items[id]._props?.Tags?.includes("container_secure"));
+
+        for (const containerId of secureContainerIDs) {
+            const container = items[containerId];
+
+            for (const grid of container._props.Grids) {
+                for (const filter of grid.filters) {
+                    // Add our custom items to the container filters
+                    for (const newItemId in mydb.templates.items) {
+                        // Optional: check if the item is of a certain type before adding
+                        if (!filter.Filter.includes(newItemId)) {
+                            filter.Filter.push(newItemId);
+                        }
+                    }
+                }
+            }
         }
 
         // Update each trader's assort, barters, and loyalty levels

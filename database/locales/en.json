@@ -1,31 +1,31 @@
 {
 	"templates": {
-		"item_container_gearbox": {
+		"683d0995deed9b8d4f897ec2": {
 			"Name": "Gear Box",
 			"ShortName": "G-BOX",
 			"Description": "A gear storage box."
 		},
-		"item_container_modbox": {
+		"683d09aadb9e219d2f7bd6e8": {
 			"Name": "Mod Case",
 			"ShortName": "M-CASE",
 			"Description": "A weapon mod storage case."
 		},
-		"recycled_ammo_bag": {
+		"683d09b347163b4e7eaecfb1": {
 			"Name": "Recycled Ammo Bag",
 			"ShortName": "A-BAG",
 			"Description": "A recycled IFAK to hold ammunition."
 		},
-		"recycled_fak": {
+		"683d09bda7c49f4eead357ec": {
 			"Name": "Recycled First Aid Kit",
 			"ShortName": "R-FAK",
 			"Description": "A used and dirty first aid kit. It can be reused in a similar way."
 		},
-		"small_portable_fridge": {
+		"683d09c63c277dad20e4260b": {
 			"Name": "Small Portable Fride",
 			"ShortName": "SP-F",
 			"Description": "A small portable fridge."
 		},
-		"small_toolbox": {
+		"683d09cd0c8ec927b398b7b7": {
 			"Name": "Small Toolbox",
 			"ShortName": "S-TB",
 			"Description": "A small toolbox, probably stolen from a Scav."
